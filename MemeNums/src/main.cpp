@@ -17,7 +17,7 @@
 */
 
 #include <Arduino.h>
-#include "Arduino_LED_Matrix.h"
+#include <Arduino_LED_Matrix.h>
 
 ArduinoLEDMatrix matrix;
 
