@@ -19,6 +19,11 @@ A traffic light simulation project.
 - **Features**: Simulates a traffic light sequence (Red -> Green -> Yellow).
 - **Location**: `./TrafficLights`
 
+### 4. MemeNums
+A display project for the Arduino Uno R4 WiFi LED Matrix.
+- **Features**: Displays the iconic numbers "42" (Hitchhiker's Guide) and "67" (2025 Viral Meme).
+- **Location**: `./MemeNums`
+
 ## Hardware Support
 
 All projects in this repository are configured with `platformio.ini` to support:
