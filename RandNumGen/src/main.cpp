@@ -17,7 +17,7 @@
 */
 
 #include <Arduino.h>
-#include "serial_io.h"
+#include <serial_io.h>
 
 void setup()
 {
