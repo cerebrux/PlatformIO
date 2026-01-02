@@ -24,6 +24,11 @@ A display project for the Arduino Uno R4 WiFi LED Matrix.
 - **Features**: Displays the iconic numbers "42" (Hitchhiker's Guide) and "67" (2025 Viral Meme).
 - **Location**: `./MemeNums`
 
+### 5. RandWord
+A random string generator for creating passwords or tokens.
+- **Features**: Customizable length, includes special characters, interactive serial interface.
+- **Location**: `./RandWord`
+
 ## Hardware Support
 
 All projects in this repository are configured with `platformio.ini` to support:
